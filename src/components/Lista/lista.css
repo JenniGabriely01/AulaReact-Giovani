@@ -1,0 +1,35 @@
+.lista{
+  text-align: center;
+}
+
+img{
+  margin: 40px;
+}
+
+.List{
+  display: flex;
+  flex-direction: column;
+}
+
+.List span{
+  margin-bottom: 20px;
+}
+
+.List strong,
+h4{
+  color: rgb(165, 80, 80);
+}
+
+h4{
+  font-size: 1.3rem;
+  text-decoration: underline;
+  margin: 2%;
+}
+
+.content-listagem{
+  padding: 2%;
+  border: 1px solid rgb(165, 80, 80);
+  width: 70%;
+  overflow: auto;
+  margin: 0 auto;
+}
