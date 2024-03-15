@@ -1,0 +1,17 @@
+{
+    "news": [
+        {
+          "id": "1",
+          "nome": "Carlos",
+          "email": "carlos@gmail.com",
+          "telefone": "12344599"
+        }
+    ],
+    "about": [
+        {
+            "id": "1",
+            "title": "Sobre",
+            "descricao": "lorem ipsum, lorem ipsum"
+        }
+    ]
+}
